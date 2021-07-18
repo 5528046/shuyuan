@@ -1,0 +1,38 @@
+[
+  {
+    "bookSourceComment": "",
+    "bookSourceGroup": "随便写",
+    "bookSourceName": "酷笔记",
+    "bookSourceType": 0,
+    "bookSourceUrl": "http://m.kubiji.net/",
+    "customOrder": 0,
+    "enabled": true,
+    "enabledExplore": true,
+    "lastUpdateTime": 1626582559611,
+    "ruleBookInfo": {
+      "tocUrl": "text.查看全部章节列表......@href"
+    },
+    "ruleContent": {
+      "content": "class.content@tag.p!-1@text"
+    },
+    "ruleExplore": {},
+    "ruleSearch": {
+      "author": "class.data.0@tag.a@href##/author/|/",
+      "bookList": "class.list",
+      "bookUrl": "tag.li@tag.a.0@href",
+      "coverUrl": "tag.li.0@tag.a.0@tag.img@src",
+      "intro": "class.intro.0@text",
+      "kind": "class.data.0@tag.span.0@text",
+      "lastChapter": "class.data.1@tag.a@text",
+      "name": "class.bookname.0@text"
+    },
+    "ruleToc": {
+      "chapterList": "tag.li!0:1:2:3",
+      "chapterName": "tag.a.0@text",
+      "chapterUrl": "tag.a.0@href",
+      "nextTocUrl": "text.下一页@href"
+    },
+    "searchUrl": "http://m.kubiji.net/search.html,{\n'charset': 'utf-8',\n'method': 'POST',\n'body': 'searchkey={{key}}'\n}",
+    "weight": 0
+  }
+]
