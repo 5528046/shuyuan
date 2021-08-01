@@ -1,0 +1,39 @@
+[
+  {
+    "bookSourceComment": "",
+    "bookSourceGroup": "自",
+    "bookSourceName": "笔趣阁（丝路）",
+    "bookSourceType": 0,
+    "bookSourceUrl": "https://www.xunsilu.cc/",
+    "customOrder": 0,
+    "enabled": true,
+    "enabledExplore": true,
+    "lastUpdateTime": 1627835788364,
+    "ruleBookInfo": {
+      "intro": "class.xs-hidden@text",
+      "tocUrl": ""
+    },
+    "ruleContent": {
+      "content": "class.content@html||id.txt@html",
+      "nextContentUrl": "text.下一页@href##$##,{'webView': true}",
+      "replaceRegex": "##.+章节错误.+\\s*"
+    },
+    "ruleExplore": {},
+    "ruleSearch": {
+      "author": "class.s4.0@text",
+      "bookList": "class.txt-list-row5@tag.li!0",
+      "bookUrl": "class.s2.0@tag.a@href",
+      "kind": "class.s1.0@text##\\[|\\]",
+      "lastChapter": "class.s3.0@text",
+      "name": "class.s2.0@text"
+    },
+    "ruleToc": {
+      "chapterList": "class.section-list.1@tag.li",
+      "chapterName": "tag.a@text",
+      "chapterUrl": "tag.a@href",
+      "nextTocUrl": "class.right@tag.a@href"
+    },
+    "searchUrl": "https://www.xunsilu.cc/s.php,{\n'charset': 'utf-8',\n'method': 'POST',\n'body': 'searchkey={{key}}&t=1'\n}",
+    "weight": 0
+  }
+]
