@@ -1,0 +1,37 @@
+[
+  {
+    "bookSourceComment": "",
+    "bookSourceGroup": "自创",
+    "bookSourceName": "3z中文网",
+    "bookSourceType": 0,
+    "bookSourceUrl": "http://www.530p.com/",
+    "customOrder": 0,
+    "enabled": true,
+    "enabledExplore": true,
+    "lastUpdateTime": 1627819957333,
+    "ruleBookInfo": {
+      "coverUrl": "rowspan.4@src",
+      "intro": "colspan.6@text",
+      "kind": "class.tc@tag.a@text",
+      "tocUrl": ""
+    },
+    "ruleContent": {
+      "content": "id.cp_content@html##无.*"
+    },
+    "ruleExplore": {},
+    "ruleSearch": {
+      "author": "class.conter4.0@text",
+      "bookList": "class.conter@tag.ul!0",
+      "bookUrl": "class.conter1.0@tag.a@href",
+      "lastChapter": "class.conter2.0@tag.a@text",
+      "name": "class.conter1.0@tag.a@text"
+    },
+    "ruleToc": {
+      "chapterList": "class.clc",
+      "chapterName": "tag.a@text",
+      "chapterUrl": "tag.a@href"
+    },
+    "searchUrl": "http://www.530p.com/s/{{key}}",
+    "weight": 0
+  }
+]
