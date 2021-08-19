@@ -1,0 +1,41 @@
+[
+  {
+    "bookSourceComment": "",
+    "bookSourceGroup": "🐶",
+    "bookSourceName": "看客中文/奇书网",
+    "bookSourceType": 0,
+    "bookSourceUrl": "https://www.kankezw.com",
+    "customOrder": 0,
+    "enabled": true,
+    "enabledExplore": true,
+    "lastUpdateTime": 1629385458304,
+    "ruleBookInfo": {
+      "coverUrl": "class.detail_pic@tag.img@src",
+      "intro": "class.showInfo@tag.p@text",
+      "kind": "class.position@tag.a.2@text",
+      "lastChapter": "",
+      "name": "",
+      "tocUrl": "class.small.-1@tag.a@href"
+    },
+    "ruleContent": {
+      "content": "id.content1@html##最新网址：www.kankezw.com",
+      "nextContentUrl": ""
+    },
+    "ruleExplore": {},
+    "ruleSearch": {
+      "author": "class.odd.1@text",
+      "bookList": "tag.tr!0",
+      "bookUrl": "tag.a.0@href",
+      "lastChapter": "class.odd.2@text",
+      "name": "tag.a.0@text"
+    },
+    "ruleToc": {
+      "chapterList": "class.pc_list.1@tag.li",
+      "chapterName": "tag.a@text",
+      "chapterUrl": "tag.a@href",
+      "nextTocUrl": ""
+    },
+    "searchUrl": "https://www.kankezw.com/search.html,{\n'charset': 'utf-8',\n'method': 'POST',\n'body': 'searchkey={{key}}'\n}",
+    "weight": 0
+  }
+]
