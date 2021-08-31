@@ -1,0 +1,37 @@
+[
+  {
+    "bookSourceComment": "",
+    "bookSourceGroup": "1",
+    "bookSourceName": "飞速小说",
+    "bookSourceType": 0,
+    "bookSourceUrl": "https://m.fsxs8.com",
+    "customOrder": 0,
+    "enabled": true,
+    "enabledExplore": true,
+    "lastUpdateTime": 1630425527905,
+    "ruleBookInfo": {
+      "author": "class.author@text",
+      "coverUrl": "class.img@tag.img@src",
+      "intro": "class.intro@tag.div.0@text",
+      "kind": "class.sort@text",
+      "tocUrl": "text.查看目录@href"
+    },
+    "ruleContent": {
+      "content": "id.content@tag.p!-1@text",
+      "nextContentUrl": "text.下一章@href"
+    },
+    "ruleExplore": {},
+    "ruleSearch": {
+      "bookList": "class.col",
+      "bookUrl": "tag.a@href",
+      "name": "tag.a@text"
+    },
+    "ruleToc": {
+      "chapterList": "tag.li!-1:-2:-3:-4",
+      "chapterName": "tag.a@text",
+      "chapterUrl": "tag.a@href"
+    },
+    "searchUrl": "https://m.fsxs8.com/search.aspx,{\n'method': 'POST',\n'body': 'q={{key}}'\n}",
+    "weight": 0
+  }
+]
